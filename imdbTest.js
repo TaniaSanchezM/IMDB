@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var movie_1 = require("./movie");
+var imdb_1 = require("./imdb");
+var peli1 = new movie_1.Movie("Capitán América: El primer vengador", 2011, "estadounidense", "acción");
+var peli2 = new movie_1.Movie("Malditos Bastardos", 2009, "estadounidense", "bélica");
+var peli3 = new movie_1.Movie("Mar adentro", 2004, "espanyola", "drama");
+var peli4 = new movie_1.Movie("La maldición", 2003, "japonesa", "terror");
+var myImdb = new imdb_1.Imdb([peli1, peli2, peli3, peli4]);
+console.log(myImdb);
