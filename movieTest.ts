@@ -14,7 +14,7 @@ let pro6 = new Professional("Kevin Feige", 48, "masculino", 71, 1.82, "castaño"
 
 peli1.actors = [pro1, pro2, pro3, pro4];
 peli1.writer = pro5;
-peli1.producer = pro6;
+peli1.producer = pro6; 
 peli1.printMovie()
 peli2.printMovie()
 peli3.printMovie()

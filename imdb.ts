@@ -7,5 +7,5 @@ export class Imdb{
 
     constructor(peliculas:Movie[]){
         this.peliculas = peliculas
-    }
+    } 
 }

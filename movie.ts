@@ -25,6 +25,6 @@ export class Movie{
             if (typeof(this[datos])!= "function"){
                 console.log(datos + ": " + this[datos])
             }
-        }
+        } 
     }
 }

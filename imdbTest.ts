@@ -7,4 +7,4 @@ let peli3 = new Movie("Mar adentro", 2004, "espanyola", "drama");
 let peli4 = new Movie("La maldición", 2003, "japonesa", "terror");
 
 let myImdb = new Imdb ([peli1, peli2, peli3, peli4])
-console.log(myImdb)
+console.log(myImdb) 
