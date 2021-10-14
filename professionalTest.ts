@@ -21,3 +21,5 @@ pro3.printProfessional();
 pro4.printProfessional();
 pro5.printProfessional();
 pro6.printProfessional();
+
+export {pro1, pro2, pro3, pro4, pro5, pro6}
