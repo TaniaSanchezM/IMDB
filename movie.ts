@@ -8,6 +8,7 @@ export class Movie{
     public writer:Professional;
     public language:string;
     public plataform:string;
+    public isMCU: boolean;
     public mainCharacterName:string;
     public producer:Professional;
     public distributor:string;

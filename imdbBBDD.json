@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Capitán América: El primer vengador",
+        "releaseYear": 2011,
+        "nacionality": "estadounidense",
+        "genre": "acción"
+    },
+    {
+        "title": "Malditos Bastardos",
+        "releaseYear": 2009,
+        "nacionality": "estadounidense",
+        "genre": "bélica"
+    },
+    {
+        "title": "Mar adentro",
+        "releaseYear": 2004,
+        "nacionality": "espanyola",
+        "genre": "drama"
+    },
+    {
+        "title": "La maldición",
+        "releaseYear": 2003,
+        "nacionality": "japonesa",
+        "genre": "terror"
+    }
+]
